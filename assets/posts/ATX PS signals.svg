@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1" width="418" height="750" id="svg2995" sodipodi:docname="ATX PS signals.svg" inkscape:version="0.48.5 r10040">
+  <title id="title3490">ATX PS signals.svg</title>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1366" inkscape:window-height="716" id="namedview3136" showgrid="false" inkscape:zoom="0.70710678" inkscape:cx="220.88436" inkscape:cy="389.26393" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="layer1">
+    <inkscape:grid type="xygrid" id="grid4624" empspacing="5" visible="true" enabled="true" snapvisiblegridlinesonly="true"/>
+  </sodipodi:namedview>
+  <metadata id="metadata3001">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>ATX PS signals.svg</dc:title>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+        <dc:source/>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Wikipedia</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Steve Meirowsky</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2015-02-05</dc:date>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ATX</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>User:Collab (original), User:Steve Meirowsky (fixes)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs2999">
+    <font id="font5023" horiz-adv-x="1024" horiz-origin-x="0" horiz-origin-y="0" vert-origin-x="45" vert-origin-y="90" vert-adv-y="90"/>
+  </defs>
+  <style id="style3149" type="text/css">
+
+          .t_label {
+              font-size:28px;
+              font-style:normal;
+              font-variant:normal;
+              font-weight:normal;
+              font-stretch:normal;
+              font-family:Sans serif;
+          }
+
+          .t_plug_label {
+              font-size:12px;
+              font-weight:bold;
+              fill:#333333;
+              font-style:normal;
+              font-variant:normal;
+              font-weight:normal;
+              font-stretch:normal;
+              line-height:125%;
+              letter-spacing:0px;
+              word-spacing:0px;
+              stroke:none;
+              display:inline;
+              font-family:Monospace;              
+              }
+           .r_border{
+               fill:none;
+               stroke:#000000;
+               stroke-width:3;
+               stroke-miterlimit:4;
+               stroke-dasharray:none;
+           }   
+
+        </style>
+  <g style="display:inline" id="layer1">
+    <g id="plug_cr" transform="matrix(1.2682243,0,0,1,-41.57477,0)">
+      <path style="fill:#800033;fill-opacity:1;stroke:#800033;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="path3899" d="m 198.5,52.5 -5,7.862436 0,21.015374 5.49906,8.12219 17.50094,0 0,-36.857036 z" inkscape:connector-curvature="0"/>
+      <rect style="fill:#ffffff;stroke:none;display:inline" id="rect3939" y="60" x="198" height="22" width="15"/>
+    </g>
+    <use xlink:href="#plug_cr" height="750" width="378" y="0" x="0" id="use4487" transform="translate(0,126)"/>
+    <use xlink:href="#plug_cr" height="750" width="378" y="0" x="0" id="use4491" transform="translate(0,168)"/>
+    <use xlink:href="#plug_cr" height="750" width="378" y="0" x="0" id="use4495" transform="translate(0,294)"/>
+    <use xlink:href="#plug_cr" height="750" width="378" y="0" x="0" id="use4499" transform="translate(0,336)"/>
+    <use xlink:href="#plug_sq" height="750" width="378" y="0" x="0" id="use4501" transform="translate(0,461.70712)"/>
+    <use xlink:href="#plug_cr" height="750" width="378" y="0" x="0" id="use4503" transform="translate(0,461.70712)"/>
+    <use xlink:href="#use4517" height="750" width="378" y="0" x="0" id="use4521" transform="translate(0,126)"/>
+    <text class="t_label" id="text5439" y="80" x="209.95313" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441" y="80" x="137.76563" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+3.3V</tspan>
+    </text>
+    <text class="t_label" id="text5439-8" y="163" x="201.47656" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-9" y="163" x="139.66602" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text class="t_label" id="text5439-3" y="204" x="186.60156" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-4" y="204" x="137.76563" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+5V</tspan>
+    </text>
+    <text class="t_label" id="text5439-6" y="373" x="258.29688" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-37" y="373" x="139.83008" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">PWR_OK</tspan>
+    </text>
+    <text class="t_label" id="text5439-88" y="414" x="224.00781" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-2" y="414" x="139.03711" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+5VSB</tspan>
+    </text>
+    <text class="t_label" id="text5439-9" y="457" x="202.1875" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-1" y="457" x="137.76563" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+12V1</tspan>
+    </text>
+    <text class="t_label" id="text5439-5" y="122" x="281" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-42" y="122" x="281" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">-12V</tspan>
+    </text>
+    <text class="t_label" id="text5439-7" y="206" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-26" y="206" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">PS_ON#</tspan>
+    </text>
+    <text class="t_label" id="text5439-014" y="375" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-60" y="375" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">NC</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="209.95313" y="123" id="use5670" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="137.76563" y="123" id="tspan3168" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+3.3V</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="209.95313" y="541.25" id="use5672" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="137.76563" y="541.25" id="tspan3164" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+3.3V</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="280.07129" y="79" id="use5674" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="280.07129" y="79" id="tspan3188" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+3.3V</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="201.47656" y="247.5" id="use5678" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="139.66602" y="247.5" id="tspan3160" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="201.47656" y="331.5" id="use5680" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="139.66602" y="331.5" id="tspan3156" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="280.69434" y="247.85876" id="use5682" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="280.69434" y="247.85876" id="tspan3184" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="280.69434" y="290.09625" id="use5684" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="280.69434" y="290.09625" id="tspan3180" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="280.69434" y="331.91425" id="use5686" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="280.69434" y="331.91425" id="tspan3176" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="280.69434" y="541.159" id="use5688" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="280.69434" y="541.159" id="tspan3172" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text class="t_label" id="text5439-3-3" y="288" x="186.60156" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-4-8" y="288" x="137.76563" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+5V</tspan>
+    </text>
+    <text class="t_label" id="text5439-3-0" y="417" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-4-1" y="417" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+5V</tspan>
+    </text>
+    <text class="t_label" id="text5439-3-2" y="459" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-4-5" y="459" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+5V</tspan>
+    </text>
+    <text class="t_label" id="text5439-3-09" y="500" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-4-4" y="500" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+5V</tspan>
+    </text>
+    <text class="t_label" id="text5439-8-7" y="166" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-9-8" y="166" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text class="t_label" id="text5439-9-3" y="500" x="202.1875" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-1-5" y="500" x="137.76563" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+12V1</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="201.47656" y="644.17999" id="use5688-3" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="139.66602" y="644.17999" id="tspan3152" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" x="201.47656" y="686.98151" id="use5688-5" class="t_label" sodipodi:linespacing="125%">
+      <tspan x="139.66602" y="686.98151" id="tspan3148" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">COM</tspan>
+    </text>
+    <text class="t_label" id="text5439-9-3-5" y="644" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-1-5-3" y="644" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+12V2</tspan>
+    </text>
+    <text class="t_label" id="text5439-9-3-2" y="688" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" sodipodi:linespacing="125%">
+      <tspan id="tspan5441-1-5-8" y="688" x="280" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">+12V2</tspan>
+    </text>
+    <use xlink:href="#use4521" height="750" width="378" y="0" x="0" style="display:inline" id="use4525-0-0" transform="translate(0.19823132,228.2363)"/>
+    <use xlink:href="#use4521" height="750" width="378" y="0" x="0" style="display:inline" id="use4525-0-6" transform="translate(-36.586385,185.69396)"/>
+    <g id="plug_sq" transform="matrix(1.2682243,0,0,1,-42.842994,0)">
+      <rect style="fill:#000000;fill-opacity:1;stroke:none" id="rect3033" y="51" x="164" height="40" width="26"/>
+      <rect style="fill:#ffffff;stroke:none;display:inline" id="rect3033-1" y="60" x="169" height="22" width="15"/>
+    </g>
+    <use xlink:href="#plug_sq" height="750" width="378" y="0" x="0" id="use4485" transform="translate(0,126)"/>
+    <use xlink:href="#plug_sq" height="750" width="378" y="0" x="0" id="use4489" transform="translate(0,168)"/>
+    <use xlink:href="#plug_sq" height="750" width="378" y="0" x="0" id="use4493" transform="translate(0,294)"/>
+    <use xlink:href="#plug_sq" height="750" width="378" y="0" x="0" id="use4497" transform="translate(0,336)"/>
+    <use xlink:href="#plug_sq" height="750" width="378" y="0" x="0" id="use4505" transform="translate(36.631239,42)"/>
+    <use xlink:href="#plug_cr" height="750" width="378" y="0" x="0" style="fill:#ff0000" id="use4507" transform="translate(-36.778505,42)"/>
+    <use xlink:href="#use4505" height="750" width="378" y="0" x="0" id="use4509" transform="translate(0,42)"/>
+    <use xlink:href="#use4507" height="750" width="378" y="0" x="0" id="use4511" transform="translate(0,42)"/>
+    <use xlink:href="#use4505" height="750" width="378" y="0" x="0" id="use4513" transform="translate(0,168)"/>
+    <use xlink:href="#use4507" height="750" width="378" y="0" x="0" id="use4515" transform="translate(0,168)"/>
+    <use xlink:href="#use4513" height="750" width="378" y="0" x="0" id="use4517" transform="translate(0,42)"/>
+    <use xlink:href="#use4515" height="750" width="378" y="0" x="0" id="use4519" transform="translate(0,42)"/>
+    <use xlink:href="#use4519" height="750" width="378" y="0" x="0" id="use4523" transform="translate(0,126)"/>
+    <use xlink:href="#use4521" height="750" width="378" y="0" x="0" id="use4525" transform="translate(0,42)"/>
+    <use xlink:href="#use4523" height="750" width="378" y="0" x="0" id="use4527" transform="translate(0,42)"/>
+    <text class="t_plug_label" id="text4605" y="84.277809" x="159.11945" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607" y="84.277809" x="156.57239" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">1</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-7" y="131.68367" x="160.39487" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-4" y="131.68367" x="157.71585" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">2</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-0" y="178.87482" x="160.49023" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-9" y="178.87482" x="157.75183" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">3</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-4" y="226.17331" x="159.15559" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-8" y="226.17331" x="156.61844" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">4</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-8" y="273.30179" x="159.32153" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-2" y="273.30179" x="156.58643" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">5</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-1" y="321.24146" x="160.11258" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-7" y="321.24146" x="157.55234" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">6</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-11" y="367.94299" x="160.27815" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-5" y="367.94299" x="157.73441" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">7</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-2" y="415.7598" x="159.23695" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-76" y="415.7598" x="156.70311" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">8</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-14" y="462.53998" x="159.20943" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-23" y="462.53998" x="156.66238" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">9</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-22" y="509.72363" x="159.91086" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-1" y="509.72363" x="153.31229" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">10</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-6" y="557.3374" x="160.14662" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-85" y="557.3374" x="153.54805" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">11</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-76" y="603.89063" x="158.64163" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-18" y="603.89063" x="152.09915" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">12</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-9" y="84.277809" x="192.705" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-27" y="84.277809" x="186.02396" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">13</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-95" y="131.61835" x="191.07657" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-43" y="131.61835" x="184.53409" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">14</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-12" y="178.79628" x="191.28566" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-3" y="178.79628" x="184.60461" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">15</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-3" y="226.18405" x="192.49872" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-41" y="226.18405" x="185.73518" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">16</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-13" y="273.25974" x="192.49277" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-87" y="273.25974" x="185.9536" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">17</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-42" y="321.31998" x="191.26094" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-77" y="321.31998" x="184.66566" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">18</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-93" y="367.91171" x="191.37628" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-19" y="367.91171" x="184.62267" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">19</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-86" y="415.87372" x="192.94853" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-50" y="415.87372" x="186.16191" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">20</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-28" y="462.6528" x="193.32149" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-6" y="462.6528" x="186.53487" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">21</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-02" y="509.82568" x="191.74867" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-48" y="509.82568" x="185.01814" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">22</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-65" y="557.39368" x="192.04402" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-0" y="557.39368" x="185.17491" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">23</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-90" y="603.84882" x="193.101" sodipodi:linespacing="125%" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-06" y="603.84882" x="186.37047" style="font-size:12.66924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">24</tspan>
+    </text>
+    <rect style="fill:none;stroke:#000000;stroke-width:3.37846398;stroke-miterlimit:4;stroke-dasharray:none" width="88.775703" height="516" x="155" y="45" id="rect5029" class="r_border"/>
+    <rect style="fill:none;stroke:#000000;stroke-width:3.37846398;stroke-miterlimit:4;stroke-dasharray:none" width="11.414019" height="214" x="243.7757" y="45" id="rect5031" class="r_border"/>
+    <rect style="fill:none;stroke:#000000;stroke-width:3.37846398;stroke-miterlimit:4;stroke-dasharray:none" width="10.145795" height="213" x="243.7757" y="348" id="rect5033" class="r_border"/>
+    <rect style="fill:none;stroke:#000000;stroke-width:3.37846398;stroke-miterlimit:4;stroke-dasharray:none" width="24.096262" height="59" x="243.7757" y="274" id="rect5035" class="r_border"/>
+    <rect style="fill:none;stroke:#000000;stroke-width:3.37846398;stroke-miterlimit:4;stroke-dasharray:none" width="17.75514" height="34" x="243.7757" y="287" id="rect5037" class="r_border"/>
+    <rect style="fill:none;stroke:#000000;stroke-width:3.37846398;stroke-miterlimit:4;stroke-dasharray:none" width="8.8775702" height="34" x="243.7757" y="287" id="rect5039" class="r_border"/>
+    <use xlink:href="#plug_cr" height="750" width="378" y="0" x="0" style="display:inline" id="use4503-2" transform="translate(-36.765151,606.08087)"/>
+    <text class="t_plug_label" id="text4605-76-0" y="767.24329" x="157.41075" sodipodi:linespacing="125%" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-18-1" y="767.24329" x="157.41075" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">2</tspan>
+    </text>
+    <use xlink:href="#use4523" height="750" width="378" y="0" x="0" style="display:inline" id="use4527-6" transform="translate(36.736451,185.70256)"/>
+    <text class="t_plug_label" id="text4605-6-1" y="719.44897" x="156.35835" sodipodi:linespacing="125%" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-85-8" y="719.44897" x="156.35835" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">1</tspan>
+    </text>
+    <text class="t_plug_label" id="text4605-65-9" y="719.30731" x="190.09969" sodipodi:linespacing="125%" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-0-8" y="719.30731" x="190.09969" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">3</tspan>
+    </text>
+    <g style="stroke:#000000;stroke-width:2;display:inline" id="g5431-4" transform="matrix(1.2682243,0,0,1,-41.57477,0)">
+      <rect class="r_border" id="rect5029-1" y="610" x="156" height="92" width="70" style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"/>
+      <rect class="r_border" id="rect5035-9" y="636" x="226" height="40" width="18" style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"/>
+      <rect class="r_border" id="rect3128" y="636" x="226" height="40" width="8" style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"/>
+    </g>
+    <text class="t_plug_label" id="text4605-90-6" y="767.39325" x="188.88849" sodipodi:linespacing="125%" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;display:inline;font-family:Courier;-inkscape-font-specification:'Courier, Normal'" transform="scale(1.1261547,0.8879775)">
+      <tspan id="tspan4607-06-4" y="767.39325" x="188.88849" style="font-size:14.07693291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Courier;-inkscape-font-specification:'Courier, Normal'">4</tspan>
+    </text>
+  </g>
+</svg>
