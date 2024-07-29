@@ -79,8 +79,11 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
+    json (2.7.1)
     kramdown (2.3.1)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -108,12 +111,16 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
+    webrick (1.8.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   alembic-jekyll-theme!
+  json
+  kramdown-parser-gfm
+  webrick
 
 BUNDLED WITH
-   2.1.4
+   2.5.16

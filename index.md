@@ -13,4 +13,4 @@ layout: page
 This site is intended to be a record of various projects. Many will be a work in progress. I prefer to record the whole path of research, failures and all, because that is where the learning happens. My hope is that others might find something usefull here.
 
 You can follow me on  
-{% include button.html text="GitHub" icon="github" link="https://github.com/miswired" color="#0366d6" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/0xmiswired" color="#0d94e7" %} 
+{% include button.html text="GitHub" icon="github" link="https://github.com/miswired" color="#0366d6" %}
